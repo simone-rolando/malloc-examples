@@ -29,3 +29,11 @@ void print_array(int a[], int sz)
     }
     printf("\n");
 }
+
+void somma (int a[], int sz){
+int s=0;
+	for(int i=0; i<sz; i++){
+		s = s+a[i];}
+
+		printf("%d", s);
+}
