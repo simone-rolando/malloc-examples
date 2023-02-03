@@ -1,0 +1,4 @@
+/Users/arkgrv/sources/malloc-examples/build/CMakeFiles/example_native.dir
+/Users/arkgrv/sources/malloc-examples/build/CMakeFiles/example_list.dir
+/Users/arkgrv/sources/malloc-examples/build/CMakeFiles/edit_cache.dir
+/Users/arkgrv/sources/malloc-examples/build/CMakeFiles/rebuild_cache.dir

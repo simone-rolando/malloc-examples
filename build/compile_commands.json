@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/arkgrv/sources/malloc-examples/build",
+  "command": "/usr/bin/clang -g -Wall -O0 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/example_native.dir/example_native.c.o -c /Users/arkgrv/sources/malloc-examples/example_native.c",
+  "file": "/Users/arkgrv/sources/malloc-examples/example_native.c"
+},
+{
+  "directory": "/Users/arkgrv/sources/malloc-examples/build",
+  "command": "/usr/bin/clang -g -Wall -O0 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/example_list.dir/example_list.c.o -c /Users/arkgrv/sources/malloc-examples/example_list.c",
+  "file": "/Users/arkgrv/sources/malloc-examples/example_list.c"
+}
+]
