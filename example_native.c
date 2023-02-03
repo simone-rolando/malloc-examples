@@ -7,6 +7,9 @@ void print_array(int a[], int sz);
 
 int main(int argc, char** argv)
 {
+   int a = 1;
+int b = 2;
+
     int* dyn = (int*)malloc(sizeof(int));
     int* dyn_arr = (int*)malloc(sizeof(int) * sz);
 
@@ -31,4 +34,12 @@ void print_array(int a[], int sz)
         printf("%d ", a[i]);
     }
     printf("\n");
+}
+
+void somma (int a[], int sz){
+int s=0;
+	for(int i=0; i<sz; i++){
+		s = s+a[i];}
+
+		printf("%d", s);
 }
